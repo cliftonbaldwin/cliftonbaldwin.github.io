@@ -1,0 +1,21 @@
+# Site settings
+title: Clifton_Baldwin
+subtitle: "Data Science Journal of Clif Baldwin"
+email: cliftonbaldwin@yahoo.com
+description: "Systems Engineer and Data Scientist"
+baseurl: ""
+url: "https://github.com/cliftonbaldwin/cliftonbaldwin.github.io"
+twitter_username: "cliftonbaldwin"
+github_username:  "cliftonbaldwin"
+instagram_username: "cliftonbaldwin"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed

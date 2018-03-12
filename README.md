@@ -1,39 +1,21 @@
-Travelog Theme
+Data Science Journal of Clif Baldwin
 ---
 
-Travelog is a theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple.
 
 ![](http://i.imgur.com/FrNwKav.png)
 
-In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.
+### Introduction
 
-It has been designed to be an easy layout to modify for your own blog. See the installation instructions below to get started.
+I am a systems engineer and an adjunct professor of data science. As I cover concepts in data science (or learn new ones), I have been writing code, mostly in R but sometimes in Python, to demonstrate to my classes or better learn certain techniques. I am establishing this blog so I can post code and material.
 
-### Demo
+### Bio
 
-See the theme in action [here](http://travelog.io/).
+Dr. Clifton Baldwin is an adjunct professor for the Data Science and Strategic Analytics Masters degree, Stockton University, Galloway, NJ, a program he helped establish. In addition, Dr. Baldwin is the Southern New Jersey Regional Director for the Delaware Valley Chapter of INCOSE [INCOSE](http://www.incose.org). He has over 26 years of experience working in software and systems engineering with the first ten years of his career as a "systems analyst" (what we would now call "data scientist") at the U.S. Bureau of Economic Analysis [BEA] (https://www.bea.gov). His research interests include system of systems and complex systems modeling. He holds a BA degree in Mathematics from Rutgers University, a MS degree in Information Systems from Johns Hopkins University, and a PhD in Systems Engineering from Stevens Institute of Technology.
 
-### Installation
+### Contact 
 
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/rowanoulton/travelog-theme/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/travelog-theme`
-- Run the jekyll server: `jekyll serve -w`
+I tweet occasionally on Twitter [@cliftonbaldwin](https://twitter.com/cliftonbaldwin).
 
-You should have a server up and running locally at <http://localhost:4000>.
+### Jekyll Theme
 
-### Customization 
-
-To customize the theme to your hearts content, check out what's in `_config.yml` as that's where you'll pull your name, Twitter username, things like that.
-
-
-### Deployment
-
-Travelog is designed to be deployed to [GitHub Pages](https://pages.github.com/). 
-
-
-### License
-
-[MIT](https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE)
-
-Attribution is totally not necessary, use it as you please. If you'd like to throw me a shoutout or say thanks, I'm on [@rowanoulton](https://twitter.com/rowanoulton/).
+This blog site was originally based on the Travelog Theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple. The theme source code can be found on Github [here](https://github.com/rowanoulton/travelog-theme). If you'd like to throw me a shoutout or say thanks to the theme developer, he is on [@rowanoulton](https://twitter.com/rowanoulton/).

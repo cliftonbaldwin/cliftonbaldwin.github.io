@@ -1,7 +1,7 @@
 Data Science Journal of Clif Baldwin
 ---
 
-![Clif Baldwin](/img/avatar.jpg)<!-- .element height="10%" width="10%" -->
+![Clif Baldwin](/img/avatar.jpg | width=240)
 
 ### Introduction
 

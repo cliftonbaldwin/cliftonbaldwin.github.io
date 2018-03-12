@@ -2,7 +2,6 @@ Data Science Journal of Clif Baldwin
 ---
 
 
-![](http://i.imgur.com/FrNwKav.png)
 
 ### Introduction
 
@@ -19,3 +18,4 @@ I tweet occasionally on Twitter [@cliftonbaldwin](https://twitter.com/cliftonbal
 ### Jekyll Theme
 
 This blog site was originally based on the Travelog Theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple. The theme source code can be found on Github [here](https://github.com/rowanoulton/travelog-theme). If you'd like to throw me a shoutout or say thanks to the theme developer, he is on [@rowanoulton](https://twitter.com/rowanoulton/).
+![](http://i.imgur.com/FrNwKav.png)

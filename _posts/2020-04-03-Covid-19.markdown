@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Modeling Covid-19 in the US"
-date:   2020-04-02 17:15:01
+date:   2020-04-03 08:45:01
 categories: Data-Modeling
 location: New Jersey, USA
 tags: data-science modeling
 ---
 # Modeling the Cases of Covid-19 in the United States 
-Using public data obtained from Johns Hopkins, I modeled the spread of CoVid-19 up to April 2, 2020. As usual, it will be presented from a R Notebook.
+Using public data obtained from Johns Hopkins, I modeled the spread of CoVid-19 up to April 3, 2020. As usual, it will be presented from a R Notebook.
 
 {% include_relative covid19.html %}
